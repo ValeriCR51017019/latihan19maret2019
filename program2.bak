@@ -1,0 +1,7 @@
+#include <conio.h>       //header untuk fungsi clrscr & getch
+#include <iostream.h>    //header untuk fungsi cout
+
+main()
+{
+cout << "\n mari belajar bersama";
+cout << "hallo...selamat datang...";
